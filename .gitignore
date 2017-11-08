@@ -10,6 +10,7 @@
 #maven ignore
 target/
 out/
+/out/
 
 #eclipse ignore
 .settings/
